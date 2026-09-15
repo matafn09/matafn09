@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="./1777084843435.jpg" alt="Fernand Mata L. Banner" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Computer+Science+Co-op+Student;Welcome+to+my+GitHub!" alt="Typing Effect" />
+  <img src="./Presentation1-ezgif.com-loop-count.gif" alt="Fernand Mata L. Banner" width="100%">
 </p>
+
 
 ## 💼 Summary
 I'm Fernand Mata, a Computer Science student at Toronto Metropolitan University specializing in Software Engineering, with a focus on software development and IT. I like building things across the stack, from AI-assisted game logic to robotics control nodes and I'm currently looking for a co-op for Summer 2027 and fall 2027.<br>
