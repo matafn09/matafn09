@@ -8,12 +8,6 @@ Expected Graduation: 2030<br>
 🤖 Working on a 2D game in python
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fernand-mata/) 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/feed/) 
 
 # 💻 Tech Stack:
