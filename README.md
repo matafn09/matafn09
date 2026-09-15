@@ -1,4 +1,6 @@
+<p align="center">
 <img src="./Presentation1-ezgif.com-loop-count.gif" alt="Fernand Mata L. Banner" width="100%">
+</p>
 
 ## 💼 Summary
 I'm Fernand Mata, a Computer Science student at Toronto Metropolitan University specializing in Software Engineering, with a focus on software development and IT. I like building things across the stack, from AI-assisted game logic to robotics control nodes and I'm currently looking for a co-op for Summer 2027 and fall 2027.<br>
