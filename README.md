@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./header.png" alt="Fernand Mata L. Banner" width="100%">
+  <img src="./1777084843435.jpg" alt="Fernand Mata L. Banner" width="100%">
 </p>
 
 ## 💼 Summary
