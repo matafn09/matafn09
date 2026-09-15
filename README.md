@@ -1,8 +1,8 @@
 # 💼 Summary
 <brI'm Fernand Mata, a Computer Science student at Toronto Metropolitan University specializing in Software Engineering, with a focus on software development and IT. I like building things across the stack, from AI-assisted game logic to robotics control nodes and I'm currently looking for a co-op for Summer 2027 and fall 2027.<br><br>
 # 🎓 Education
-<br>Toronto Metropolitan University, Toronto, ON Bachelor of Science in Computer Science, Software Engineering Concentration.
-Expected Graduation: 2030<br><br>
+<br>Toronto Metropolitan University, Toronto, ON Bachelor of Science in Computer Science, Software Engineering Concentration.<br>
+Expected Graduation: 2030<br>
 # 🛠️ Currently working on
 <br>📚 Studying Linux/C and database systems<br>
 🤖 Working on a 2D game in python
