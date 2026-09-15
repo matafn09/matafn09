@@ -8,10 +8,10 @@ Expected Graduation: 2030<br>
 🤖 Working on a 2D game in python.<br>
 
 ## 🚀 Projects
-🎮 Chess Game in Python — chess engine with a minimax/negamax AI opponent<br>
-🧩 Conquest Game — Java Swing puzzle game<br>
-💸 Multi-Destination Trip Budget Planner — Python budget-calculator project<br>
-🤖 ROS2 Publisher and Subscriber — ROS2 robot control nodes (publisher/subscriber, turtlesim)<br>
+- 🎮 [Chess Game in Python](https://github.com/matafn09/Chess-game-in-Python) — chess engine with a minimax/negamax AI opponent<br>
+- 🧩 [Conquest Game](https://github.com/matafn09/Conquest-Game) — Java Swing puzzle game<br>
+- 💸 [Multi-Destination Trip Budget Planner](https://github.com/matafn09/Multi-destination-trip-budget-planner) — Python budget-calculator project<br>
+- 🤖 [ROS2 Publisher and Subscriber](https://github.com/matafn09/ROS2-Publisher-and-Subscriber) — ROS2 robot control nodes (publisher/subscriber, turtlesim)<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/feed/) 
