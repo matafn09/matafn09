@@ -1,6 +1,10 @@
-<p align="center" style="margin: 0; padding: 0;">
-  <img src="./Presentation1-ezgif.com-loop-count.gif" alt="Fernand Mata L. Banner" width="100%" style="display: block; margin: 0; padding: 70;">
-</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td align="center" style="padding: 0; margin: 0;">
+      <img src="./Presentation1-ezgif.com-loop-count.gif" alt="Fernand Mata L. Banner" width="100%" style="display: block;">
+    </td>
+  </tr>
+</table>
 
 ## 💼 Summary
 I'm Fernand Mata, a Computer Science student at Toronto Metropolitan University specializing in Software Engineering, with a focus on software development and IT. I like building things across the stack, from AI-assisted game logic to robotics control nodes and I'm currently looking for a co-op for Summer 2027 and fall 2027.<br>
