@@ -4,10 +4,10 @@
 <br>Toronto Metropolitan University, Toronto, ON Bachelor of Science in Computer Science, Software Engineering Concentration.<br>
 Expected Graduation: 2030<br>
 ## 🛠️ Currently working on
-<br>📚 Studying Linux/C and database systems<br>
-🤖 Working on a 2D game in python
+<br>📚 Studying Linux/C and database systems.<br>
+🤖 Working on a 2D game in python.<br>
 
-🚀 Projects
+##🚀 Projects
 🎮 Chess Game in Python — chess engine with a minimax/negamax AI opponent
 🧩 Conquest Game — Java Swing puzzle game
 💸 Multi-Destination Trip Budget Planner — Python budget-calculator project
