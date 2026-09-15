@@ -1,14 +1,20 @@
-## 💫 About Me
-I'm **Fernand Mata**, a Computer Science student at Toronto Metropolitan University specializing in Software Engineering, with a focus on software development and IT.
+# 💼 Summary
+<br>I'm Fernand Mata, a Computer Science student at Toronto Metropolitan University specializing in Software Engineering, with a focus on software development and IT.<br><br>
+#🎓 Education
+<br>Toronto Metropolitan University, Toronto, ON Bachelor of Science in Computer Science — Software Engineering Concentration Expected Graduation: 2030<br><br>
 
-## 🎓 Education
-**Toronto Metropolitan University**, Toronto, ON
-Bachelor of Science in Computer Science — Software Engineering Concentration
-Expected Graduation: 2030
+#🛠️ Currently working on
+<br>📚 Studying Linux/C and database systems<br>🤖 Working on a 2D game in python
 
-## 🛠️ Currently working on
-- 📚 Studying Linux/C and database systems
-- 🤖 Working on a 2D game in python
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fernand-mata/) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=matafn09&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=matafn09&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=matafn09&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 ## 🌐 Socials:
