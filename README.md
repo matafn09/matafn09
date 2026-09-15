@@ -1,7 +1,7 @@
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td align="center" style="padding: 0; margin: 0;">
-      <img src="./Presentation1-ezgif.com-loop-count.gif" alt="Fernand Mata L. Banner" width="100%" style="display: block;">
+      <img src="./Presentation1-ezgif.com-crop (1).giff" alt="Fernand Mata L. Banner" width="100%" style="display: block;">
     </td>
   </tr>
 </table>
