@@ -1,5 +1,7 @@
 <p align="center">
   <img src="./1777084843435.jpg" alt="Fernand Mata L. Banner" width="100%">
+  <br><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Computer+Science+Co-op+Student;Welcome+to+my+GitHub!" alt="Typing Effect" />
 </p>
 
 ## 💼 Summary
