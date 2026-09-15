@@ -1,4 +1,5 @@
 💫 About Me:
+
 Hi there 👋<br><br> 💼 Summary<br>I'm Fernand Mata a Computer Science student at Toronto Metropolitan University specializing in Software Engineering, with a focus on software development and IT. I enjoy turning ideas into working software and have a passion for writing clean, maintainable code. I pick up new tools quickly, thrive in collaborative environments, and am always looking for meaningful problems to solve through technology.<br><br>🎓 Education<br>Toronto Metropolitan University, Toronto, ON<br>Bachelor of Science in Computer Science<br>Software Engineering Concentration<br>Expected Graduation: 2030<br><br>🚀
 
 ## 🌐 Socials:
