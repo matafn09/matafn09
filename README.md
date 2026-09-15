@@ -7,7 +7,7 @@ Expected Graduation: 2030<br>
 <br>📚 Studying Linux/C and database systems.<br>
 🤖 Working on a 2D game in python.<br>
 
-##🚀 Projects
+## 🚀 Projects
 🎮 Chess Game in Python — chess engine with a minimax/negamax AI opponent
 🧩 Conquest Game — Java Swing puzzle game
 💸 Multi-Destination Trip Budget Planner — Python budget-calculator project
