@@ -1,5 +1,5 @@
 <p align="center" style="margin: 0; padding: 0;">
-  <img src="./Presentation1-ezgif.com-loop-count.gif" alt="Fernand Mata L. Banner" width="100%" style="display: block; margin: 0; padding: 0;">
+  <img src="./Presentation1-ezgif.com-loop-count.gif" alt="Fernand Mata L. Banner" width="100%" style="display: block; margin: 0; padding: 70;">
 </p>
 
 ## 💼 Summary
