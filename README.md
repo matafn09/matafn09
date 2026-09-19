@@ -2,28 +2,72 @@
   <img src="./Presentation1-ezgif.com-crop (1).gif" alt="Fernand Mata L. Banner" width="100%">
 </p>
 
-## 💼 Summary
+# 👋 Hi, I'm Fernand Mata
 
-<div align="justify">
-  I'm Fernand Mata, a Computer Science student at Toronto Metropolitan University specializing in Software Engineering, with a focus on software development and IT. I build projects involving algorithms, game development, and systems programming.
-</div>
+🎓 Computer Science student at **Toronto Metropolitan University** pursuing a **BSc in Computer Science with a Software Engineering concentration**.
 
-## 🎓 Education
-Toronto Metropolitan University, Toronto, ON Bachelor of Science in Computer Science, Software Engineering Concentration.<br>
-Expected Graduation: 2030<br>
+💻 Interested in **software development, IT support, and systems**.
 
-## 🚀 Projects
-- 🎮 [Chess Game in Python](https://github.com/matafn09/Chess-game-in-Python) — chess engine with a minimax/negamax AI opponent<br>
-- 🧩 [Conquest Game](https://github.com/matafn09/Conquest-Game) — Java Swing puzzle game<br>
-- 💸 [Multi-Destination Trip Budget Planner](https://github.com/matafn09/Multi-destination-trip-budget-planner) — Python budget-calculator project<br>
-- 🤖 [ROS2 Publisher and Subscriber](https://github.com/matafn09/ROS2-Publisher-and-Subscriber) — ROS2 robot control nodes (publisher/subscriber, turtlesim)<br>
+## 🛠️ Technical Skills
 
-## 🛠️ Currently working on
-<br>📚 Studying Linux/C and database systems.<br>
-🤖 Working on a 2D game in python.<br>
+**Languages:** Python, Java, C, C++, SQL, JavaScript, HTML, CSS, Bash
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernand-mata/) 
+**Technologies & Tools:** Git, GitHub, Docker, Docker Compose, MySQL, Linux/UNIX, ROS2, Arduino, Microsoft Access, Excel
+
+## 🚀 Featured Projects
+
+### ♟️ [Chess Game with AI](https://github.com/matafn09/Chess-game-in-Python)
+
+**Python • Pygame • NegaMax • Alpha-Beta Pruning**
+
+A chess application featuring a custom game engine and an AI opponent using NegaMax with alpha-beta pruning.
+
+### 🧩 [Conquest Game](https://github.com/matafn09/Conquest-Game)
+
+**Java • Swing • Graphics2D**
+
+An interactive puzzle game featuring procedural board generation, mouse-based gameplay, and live rule validation.
+
+### 🐳 [Help Desk Ticketing Lab](https://github.com/matafn09/osticket-docker-lab)
+
+**Docker • Docker Compose • MySQL • WSL 2 • osTicket**
+
+A containerized help desk environment used to practice deployment, troubleshooting, database configuration, and ticket resolution.
+
+### 🗄️ [Library Management Database](https://github.com/matafn09/Library-Management-Database)
+
+**Microsoft Access • SQL • Excel**
+
+A relational library management database for books, members, borrowing transactions, returns, and fines.
+
+### 🤖 [ROS2 Publisher & Subscriber](https://github.com/matafn09/ROS2-Publisher-and-Subscriber)
+
+**Python • ROS2 • turtlesim**
+
+A ROS2 project demonstrating communication between publisher and subscriber nodes using turtle movement and XY-coordinate data.
+
+## 💼 Experience
+
+**Computer Technician — Freelance / Independent**
+
+Supporting clients with computer hardware and software troubleshooting, Windows installations, malware removal, data backups, storage upgrades, and custom PC builds.
+
+**Lead Mentor — Toronto Metropolitan University**
+
+Supporting students through mentorship, campus resource navigation, community engagement, and event coordination.
+
+## 📚 Currently Learning
+
+- React
+- Backend development
+- REST APIs
+- Database systems
+- Linux
+- Software testing
+
+## 🌐 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernand-mata/)
 
 ## 💻 Tech Stack:
 
